@@ -1,0 +1,41 @@
+#para{
+    width: 150px;
+    height: 40px;
+    border: solid black;
+    padding-top: 20px;
+    
+    
+}
+button{
+    border: solid black;
+    border-radius: 20px;
+    height: 40px;
+    width: 110px;
+    font-size: 16px;
+}
+#num_1{
+    border: solid black; 
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+   background-color: azure;
+}
+#num_2{
+    border: solid black; 
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    background-color: azure;
+}
+body{
+    border:  2px solid black; 
+    height: 400px;
+    width: 700px;
+   margin-left: 430px;
+   margin-top: 150px;
+   background-image: linear-gradient(150deg, #ba8cdb33,#fed5e274) ;
+}
+.heading{
+    color: rgb(80, 6, 109);
+    font-style: italic;
+}
